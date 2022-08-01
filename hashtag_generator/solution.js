@@ -12,4 +12,3 @@ function generateHashtag(str) {
   }
   return a;
 }
-generateHashtag("       ");
